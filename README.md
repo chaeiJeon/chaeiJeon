@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20!!&descAlignY=54" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" />
 <!--
 **chaeiJeon/chaeiJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
